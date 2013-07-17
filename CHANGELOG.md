@@ -8,3 +8,7 @@ First release.
 * Integrate zurb foundation 4
 * Add zurb example template
 
+### 0.1.1 (July 17, 2013)
+
+* Fix doc typos
+
