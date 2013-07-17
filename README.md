@@ -20,7 +20,7 @@ and functionality in Django 1.5.
 
 By default, this project template includes:
 
-A set of basic templates built from HTML5Boilerplate 4.1.0 and Twitter Bootstrap 2.3.1 (located in the
+A set of basic templates built from Zurb Foundation 4 (located in the
 base app)
 
 Templating:
@@ -88,6 +88,8 @@ Describe your project here.
 - Python 2.6 or 2.7
 - pip
 - virtualenv (virtualenvwrapper is recommended for use during development)
+- compass (to compile your sass styles)
+- zurb-foundation (html5 framework)
 
 ## Installation ##
 
